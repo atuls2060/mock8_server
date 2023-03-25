@@ -1,5 +1,11 @@
 {
   "users": [
+    {
+      "username": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
   ],
   "movies": [
     {
@@ -21,6 +27,60 @@
       "genre": "Horror",
       "IMDB_Rating": 7.2,
       "ticket": 200
+    },
+    {
+      "id": 3,
+      "poster": "https://picsum.photos/200/300",
+      "title": "I Am Legend ",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 100
+    }
+    ,
+    {
+      "id": 4,
+      "poster": "https://picsum.photos/200/300",
+      "title": "I Am Legend ",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 100
+    }
+    ,
+    {
+      "id": 5,
+      "poster": "https://picsum.photos/200/300",
+      "title": "I Am Legend ",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 100
+    }
+    ,
+    {
+      "id": 6,
+      "poster": "https://picsum.photos/200/300",
+      "title": "I Am Legend ",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 100
+    }
+    ,
+    {
+      "id": 7,
+      "poster": "https://picsum.photos/200/300",
+      "title": "I Am Legend ",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 100
     }
   ]
 }
